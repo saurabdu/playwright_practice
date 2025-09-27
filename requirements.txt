@@ -1,0 +1,5 @@
+pytest-html
+pytest
+requests
+pytest-playwright
+pytest-asyncio
